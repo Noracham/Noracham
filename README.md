@@ -2,7 +2,6 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noracham&layout=compact&show_icons=true&theme=aura" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Noracham&theme=aura&show_icons=ture" />
 </p>
 
 <h3 align="left">Languages and Tools</h3>
